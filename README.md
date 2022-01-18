@@ -1,2 +1,2 @@
 # Read-Me-Generator
-A good Read-Me generator
+A good ReadMe generator
